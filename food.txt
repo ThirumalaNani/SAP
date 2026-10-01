@@ -1,0 +1,60 @@
+FOOD MENU
+
+STARTERS
+1. Veg Spring Rolls - ₹120
+2. French Fries - ₹100
+3. Paneer Tikka - ₹180
+4. Chicken 65 - ₹200
+5. Chicken Wings - ₹220
+
+MAIN COURSE
+6. Veg Fried Rice - ₹150
+7. Chicken Fried Rice - ₹190
+8. Veg Biryani - ₹180
+9. Chicken Biryani - ₹250
+10. Paneer Butter Masala - ₹200
+11. Chicken Curry - ₹220
+12. Butter Naan - ₹50
+
+BURGERS & SANDWICHES
+13. Veg Burger - ₹130
+14. Chicken Burger - ₹170
+15. Cheese Burger - ₹160
+16. Grilled Chicken Sandwich - ₹180
+
+PIZZAS
+17. Margherita Pizza - ₹200
+18. Veg Supreme Pizza - ₹280
+19. Paneer Pizza - ₹270
+20. Chicken Pizza - ₹320
+
+BEVERAGES
+21. Fresh Lime Soda - ₹70
+22. Cold Coffee - ₹100
+23. Mango Juice - ₹90
+24. Coca-Cola - ₹50
+25. Mineral Water - ₹30
+
+DESSERTS
+26. Chocolate Brownie - ₹120
+27. Vanilla Ice Cream - ₹90
+28. Chocolate Ice Cream - ₹100
+29. Gulab Jamun - ₹80
+30. Chocolate Cake - ₹130
+
+SPECIAL COMBOS
+31. Veg Combo - ₹250
+    Veg Biryani + Starter + Soft Drink
+
+32. Chicken Combo - ₹320
+    Chicken Biryani + Starter + Soft Drink
+
+33. Burger Combo - ₹280
+    Chicken Burger + French Fries + Soft Drink
+
+34. Family Combo - ₹750
+    2 Chicken Biryanis + 1 Veg Biryani + Starter + 4 Soft Drinks
+
+NOTE:
+All prices are in Indian Rupees (₹).
+Food availability may vary depending on the day.
