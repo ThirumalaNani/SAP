@@ -1,0 +1,101 @@
+CUSTOMER DATA
+
+Customer ID: C001
+Name: Rahul Sharma
+Phone: 9876543210
+Email: rahul.sharma@example.com
+Address: Hyderabad, Telangana
+Favorite Food: Chicken Biryani
+Last Order: Chicken Biryani
+Order Amount: ₹250
+Status: Active
+
+Customer ID: C002
+Name: Priya Reddy
+Phone: 9876543211
+Email: priya.reddy@example.com
+Address: Secunderabad, Telangana
+Favorite Food: Paneer Tikka
+Last Order: Veg Biryani
+Order Amount: ₹180
+Status: Active
+
+Customer ID: C003
+Name: Arjun Kumar
+Phone: 9876543212
+Email: arjun.kumar@example.com
+Address: Kukatpally, Hyderabad
+Favorite Food: Chicken Burger
+Last Order: Burger Combo
+Order Amount: ₹280
+Status: Active
+
+Customer ID: C004
+Name: Sneha Rao
+Phone: 9876543213
+Email: sneha.rao@example.com
+Address: Madhapur, Hyderabad
+Favorite Food: Margherita Pizza
+Last Order: Veg Supreme Pizza
+Order Amount: ₹280
+Status: Active
+
+Customer ID: C005
+Name: Kiran Reddy
+Phone: 9876543214
+Email: kiran.reddy@example.com
+Address: LB Nagar, Hyderabad
+Favorite Food: Chicken Biryani
+Last Order: Chicken Combo
+Order Amount: ₹320
+Status: Active
+
+Customer ID: C006
+Name: Ananya Singh
+Phone: 9876543215
+Email: ananya.singh@example.com
+Address: Gachibowli, Hyderabad
+Favorite Food: Chocolate Brownie
+Last Order: Chocolate Brownie
+Order Amount: ₹120
+Status: Active
+
+Customer ID: C007
+Name: Rohit Verma
+Phone: 9876543216
+Email: rohit.verma@example.com
+Address: Ameerpet, Hyderabad
+Favorite Food: Chicken Wings
+Last Order: Chicken Wings
+Order Amount: ₹220
+Status: Active
+
+Customer ID: C008
+Name: Meena Patel
+Phone: 9876543217
+Email: meena.patel@example.com
+Address: Begumpet, Hyderabad
+Favorite Food: Paneer Butter Masala
+Last Order: Paneer Butter Masala
+Order Amount: ₹200
+Status: Active
+
+Customer ID: C009
+Name: Vikas Rao
+Phone: 9876543218
+Email: vikas.rao@example.com
+Address: Kondapur, Hyderabad
+Favorite Food: Chicken Pizza
+Last Order: Chicken Pizza
+Order Amount: ₹320
+Status: Active
+
+Customer ID: C010
+Name: Divya Nair
+Phone: 9876543219
+Email: divya.nair@example.com
+Address: Hitech City, Hyderabad
+Favorite Food: Veg Fried Rice
+Last Order: Veg Fried Rice
+Order Amount: ₹150
+Status: Active
